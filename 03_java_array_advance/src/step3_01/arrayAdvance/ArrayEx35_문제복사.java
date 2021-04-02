@@ -4,7 +4,7 @@ package step3_01.arrayAdvance;
  *	# 2차원배열 기본문제[1단계]
 */
 
-public class ArrayEx35_문제 {
+public class ArrayEx35_문제복사 {
 
 	public static void main(String[] args) {
 
